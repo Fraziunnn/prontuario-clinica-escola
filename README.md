@@ -112,7 +112,7 @@ $$;
 
 ## 🌐 Link do Deploy
 
-[🔗 Acessar Aplicação no Lovable]([https://lovable.app/...](https://lovable.dev/projects/7212af2e-520b-4be3-84c3-b85e4d6f5ef8))
+[🔗 Acessar Aplicação no Lovable](https://lovable.dev/projects/7212af2e-520b-4be3-84c3-b85e4d6f5ef8)
 
 ---
 
